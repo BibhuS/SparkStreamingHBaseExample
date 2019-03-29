@@ -1,3 +1,4 @@
+https://mapr.com/blog/real-time-streaming-data-pipelines-apache-apis-kafka-spark-streaming-and-hbase/
 
 Create an hbase table to write to:
 launch the hbase shell
